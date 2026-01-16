@@ -1,0 +1,76 @@
+body{
+    background-color: #E9EAF8;
+}
+.header-section{
+    margin-top: 100px;
+
+}
+.hero{
+    padding-top: 140px;
+}
+.hero h1{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 45px;
+    color: #343F52;
+    margin-top: 15.6px;
+}
+.card p{
+    font-family: 'Urbanist';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #9499A3;
+    margin-top: 12.79px;
+}
+.card h5{
+    font-family: 'Urbanist';
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 24px;
+    color: #343F52;
+    margin-top: 31px;
+}
+.div-section{
+    margin-left: 247px;
+    margin-top: 50px;
+}
+.card{
+    border: none;
+    border-radius: 0;
+}
+.card img {
+    width: 403.32px;
+    height: 403.32px;
+}
+.div-button{
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.button{
+    background-color: #747ED1;
+    border: 2px;
+    border-radius: 1000px;
+    padding: 19px 38px 19.89px 38px;
+    margin-bottom: 140px;
+}
+.button p{
+    color: #FFFFFF;
+    font-family: 'Urbanist';
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 23px;
+    margin: 0;
+}
+.section-2{
+    padding-top: 140px;
+    padding-left: 244px;
+    margin-bottom: 100px;
+}
+ .div-icon{
+    gap: 80px;
+    margin-top: 50px;
+    width: 90.66px;
+    height: 91.41px;
+}
